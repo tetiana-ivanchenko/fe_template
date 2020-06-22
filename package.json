@@ -1,0 +1,16 @@
+{
+  "name": "fe_template",
+  "version": "1.0.0",
+  "description": "templste\u001b[D\u001b[a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "",
+    "",
+    ""
+  ],
+  "author": "Ivanvhenko",
+  "license": "ISC"
+}
