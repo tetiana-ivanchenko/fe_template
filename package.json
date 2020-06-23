@@ -4,13 +4,19 @@
   "description": "templste\u001b[D\u001b[a",
   "main": "index.js",
   "scripts": {
+    "start": "parcel ./src/index.html --open",
+    "build": "rm -rf ./dist && parcel build ./src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "",
-    "",
-    ""
+    "boilerplate",
+    "template",
+    "fromtend"
   ],
-  "author": "Ivanvhenko",
-  "license": "ISC"
+  "author": "IvanvhenkoTatiana",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.26.9"
+  }
 }
