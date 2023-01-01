@@ -16,7 +16,7 @@
   "author": "IvanvhenkoTatiana",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "sass": "^1.26.9"
   }
 }
